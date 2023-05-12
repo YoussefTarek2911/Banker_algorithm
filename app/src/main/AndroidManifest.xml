@@ -21,6 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".answer_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_request"
+            android:exported="false" />
+        <activity
+            android:name=".activity_second"
+            android:exported="false" />
     </application>
 
 </manifest>

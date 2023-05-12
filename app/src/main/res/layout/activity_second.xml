@@ -54,8 +54,8 @@
         android:id="@+id/matrix_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:layout_weight="15"/>
+        android:layout_weight="15"
+        android:orientation="vertical" />
 
     <Button
         android:id="@+id/Assign"

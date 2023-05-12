@@ -1,9 +1,10 @@
 package com.example.banker;
 
-import android.os.Bundle;
-import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -21,9 +22,9 @@ public class answer_Activity extends AppCompatActivity {
             ArrayList<Integer> seq = bundle.getIntegerArrayList("seq");
             if (safeFlag)
             {
-               String seqString = "";
+                String seqString = "";
                 for (Integer i:
-                    seq) {
+                        seq) {
                     seqString += " P" + i;
                 }
                 answerText.setText("Safe Request with Sequence:\n" + seqString);

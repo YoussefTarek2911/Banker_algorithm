@@ -1,8 +1,11 @@
 package com.example.banker;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.print.PrintAttributes;
 import android.text.InputType;
 import android.view.Gravity;
 import android.widget.Button;
@@ -10,7 +13,8 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import androidx.appcompat.app.AppCompatActivity;
+import java.util.ArrayList;
+import java.util.List;
 
 public class activity_second extends AppCompatActivity {
 
