@@ -1,5 +1,5 @@
 # Banker's Algorithm with android studio
-This is an implementation of the banker's algorithm in a Mobile Application, consistace of 4 forms.
+This is an implementation of the banker's algorithm in a Mobile Application, ConsistingS of 4 forms.
 
 # Description
 The Banker Algorithm is a resource allocation algorithm used in operating systems to ensure the safe allocation of resources to processes while avoiding deadlocks. This README provides an overview of the Banker Algorithm, its implementation, and usage.
@@ -14,7 +14,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 <br />
 
 # Form 2 : 
-- In the second Form you have to select between Max and allocation and total Buttons and put any number and after you done press on : Assign  
+- In the second Form you have to select between Max and allocation and total Buttons and put any number and after you are done, press on : Assign  
 - **Max** <br />
 ![Picture1](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/92dbd7ad-c14f-489d-a71a-c59f2cf28678)
 - **Allocation**<br />
@@ -26,7 +26,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 - Select the  ***Process number*** you want and ***Resource number*** and ***number of Resource you need [iterations]*** 
 - ![Picture4](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/c3bddf74-55ba-41c7-8dc3-56fe5a864196)
 # Form 3 :
-- If it safe it will show you this form : <br />
+- If it is safe, it will show you this form : <br />
 ![Picture5](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/8e3f6af3-49ec-48cd-b307-8aab72f9ab45)
 # Form 4 :
 - If Not it will Show you this Form : <br />
