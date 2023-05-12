@@ -18,8 +18,10 @@ To use this program, you will need to have Android Studio on your computer. Once
 - **Max** <br />
 !![Picture1](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/92dbd7ad-c14f-489d-a71a-c59f2cf28678)
 <br />
-![Picture2](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/08c17b18-d6c8-449b-bd58-1d4b78da8796)
-
+ <br />
+ 
+![Screenshot 2023-05-12 072138](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/1d307cd1-3ce5-448b-9a17-a98ff89b027c)
+<br />
 
 
 
