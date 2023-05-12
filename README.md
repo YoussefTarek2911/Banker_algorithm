@@ -20,7 +20,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 <br />
  <br />
  
-![Screenshot 2023-05-12 072138](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/1d307cd1-3ce5-448b-9a17-a98ff89b027c)
+![Picture2](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/88ef5571-ca45-4693-8cb2-316841eb0b2f)
 <br />
 
 
