@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Number_Of_Processes"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:ignore="ImageContrastCheck" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:id="@+id/Number_Of_Resources_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:autofillHints=""
+        android:hint="@string/number_of_resources"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#8D6E63"
+        tools:ignore="TextFields,VisualLintTextFieldSize" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="30dp"/>
+
+    <EditText
+        android:id="@+id/Number_Of_Processes_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:autofillHints=""
+        android:hint="@string/number_of_processes"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#8D6E63"
+        tools:ignore="TextFields,VisualLintTextFieldSize" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:id="@+id/saved_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next"/>
+
+
+
+</LinearLayout>

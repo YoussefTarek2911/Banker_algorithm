@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bankers Algorithm</string>
+    <string name="number_of_resources">NUmber of Resources</string>
+    <string name="number_of_processes">Number Of Processes</string>
+    <string name="saved">saved</string>
+    <string name="todo">TODO</string>
+    <string name="Next" />
+    <string name="next">Next</string>
+    <string name="sum">sum</string>
+</resources>
