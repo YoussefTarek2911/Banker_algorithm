@@ -20,7 +20,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 <br />
 - **Allocation** <br />
 ![Picture2](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/08c17b18-d6c8-449b-bd58-1d4b78da8796)
-<br />
+<br /> 
 
 
 
