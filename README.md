@@ -23,6 +23,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 ![Picture3](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/af3a8110-cd81-4179-8001-025b3775e105)
 - After you put the numbers in total press on Next
 - ![Screenshot 2023-05-12 dfsd](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/21cee9e4-d585-4921-b756-8bef7d2bd4fe)
+- Select the  **Process number** you want and **Resource number** and **number of Resource you need [iterations]** 
 <br />
 
 
