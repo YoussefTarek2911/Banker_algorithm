@@ -9,5 +9,5 @@ To use this program, you will need to have Android Studio on your computer. Once
 
 # Form 1 :
 This form takes the number of resources and processes and to save it you have to pressed on "Next"<br />
-![setup system](/C:\Users\yosse\OneDrive\Desktop\Screenshot 2023-05-12 072138.png)<br />
+![setup system](C:\Users\yosse\OneDrive\Desktop\Screenshot 2023-05-12 072138.png)<br />
 
