@@ -28,7 +28,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 - If it safe it will show you this form : <br />
 ![Picture5](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/8e3f6af3-49ec-48cd-b307-8aab72f9ab45)
 - If Not it will Show you this Form : <br />
-
+![Picture6](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/f15ddbeb-cd5d-4be8-ad04-c3d82073c438)
 <br />
 
 
