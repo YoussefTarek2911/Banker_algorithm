@@ -9,7 +9,7 @@ To use this program, you will need to have Android Studio on your computer. Once
 
 # Form 1 :
 - This form takes the number of resources and processes and to save it you have to pressed on ***Next*** <br />
-- 
+ 
 ![Screenshot 2023-05-12 072138](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/1d307cd1-3ce5-448b-9a17-a98ff89b027c)
 <br />
 
