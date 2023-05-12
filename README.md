@@ -15,8 +15,10 @@ To use this program, you will need to have Android Studio on your computer. Once
 
 # Form 2 : 
 - In the second Form you have to select between Max and allocation and total Buttons and put any number and after you done press on : Assign and Next and I make a generation of third form : <br />
+- **Max**
 !![Picture1](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/92dbd7ad-c14f-489d-a71a-c59f2cf28678)
 <br />
+
 
  
  
