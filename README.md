@@ -33,8 +33,8 @@ To use this program, you will need to have Android Studio on your computer. Once
 ![Picture6](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/f15ddbeb-cd5d-4be8-ad04-c3d82073c438)
 <br />
 
-
-#
+# conclusion
+the Banker's Algorithm is a resource allocation algorithm that prioritizes system stability and prevents deadlocks. It achieves this by carefully evaluating resource requests from processes and ensuring that the allocation can be made without compromising the system's ability to fulfill future requests. By effectively managing resources and avoiding deadlock scenarios, the Banker's Algorithm contributes to the smooth operation of multi-process systems.
 
 
 
