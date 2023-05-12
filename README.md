@@ -13,4 +13,11 @@ To use this program, you will need to have Android Studio on your computer. Once
 ![Screenshot 2023-05-12 072138](https://github.com/YoussefTarek2911/Banker_algorithm/assets/108703940/1d307cd1-3ce5-448b-9a17-a98ff89b027c)
 <br />
 
-# Form 2 :
+# Form 2 : 
+- In the second Form you have to select between Max and allocation and total Buttons and put any number and after you done press on : Assign and Next and I make a generation of third form :
+ 
+ 
+ 
+ 
+ 
+
